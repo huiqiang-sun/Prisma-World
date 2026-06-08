@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Prisma-World
 
 **Prisma-World: Camera-Controllable Multi-Agent Video World Model**
@@ -12,7 +11,10 @@ Prisma-World is a camera-controllable multi-agent video world model for generati
 - **Project page:** https://huiqiang-sun.github.io/prisma-world/
 - **Paper:** https://huiqiang-sun.github.io/prisma-world/prisma-world.pdf
 
-## Highlights
+
+## Overview
+
+![Prisma-World teaser](assets/teaser.png)
 
 - **Camera-controllable generation:** each agent can follow a specified camera trajectory.
 - **Multi-view consistency:** related views are generated jointly to preserve shared scene content.
@@ -20,23 +22,6 @@ Prisma-World is a camera-controllable multi-agent video world model for generati
 - **Diverse scenes:** results cover structured UE scenes and open-domain environments.
 - **Minimap guidance:** top-down local maps can provide additional spatial conditioning.
 
-## Visual Overview
-
-![Prisma-World teaser](assets/teaser.png)
-
-## Repository Structure
-
-```text
-Prisma-World/
-├── assets/
-│   ├── teaser.png
-│   ├── method-main.png
-│   └── fig1.pdf
-├── docs/
-│   └── overview.md
-├── .gitignore
-└── README.md
-```
 
 ## Citation
 
@@ -48,6 +33,4 @@ Prisma-World/
   year={2026}
 }
 ```
-=======
-# Prisma-World
->>>>>>> b8b7bae13283f33f013372c8ad18fc7180c65cb9
+
