@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prisma-World
 
 **Prisma-World: Camera-Controllable Multi-Agent Video World Model**
@@ -47,3 +48,6 @@ Prisma-World/
   year={2026}
 }
 ```
+=======
+# Prisma-World
+>>>>>>> b8b7bae13283f33f013372c8ad18fc7180c65cb9
