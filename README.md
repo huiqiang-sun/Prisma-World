@@ -14,7 +14,9 @@ Prisma-World is a camera-controllable multi-agent video world model for generati
 
 ## Overview
 
-![Prisma-World teaser](assets/teaser.png)
+<p align="center">
+  <img src="assets/teaser.png" alt="Prisma-World teaser" width="100%">
+</p>
 
 - **Camera-controllable generation:** each agent can follow a specified camera trajectory.
 - **Multi-view consistency:** related views are generated jointly to preserve shared scene content.
