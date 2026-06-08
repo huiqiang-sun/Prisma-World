@@ -1,0 +1,21 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local outputs
+outputs/
+checkpoints/
+logs/
+wandb/
+
+# Large model/data files
+*.ckpt
+*.pth
+*.pt
+*.safetensors
+*.tar
+*.zip
