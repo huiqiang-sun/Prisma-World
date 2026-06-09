@@ -9,7 +9,7 @@ Prisma-World is a camera-controllable multi-agent video world model for generati
 ## Links
 
 - **Project page:** https://huiqiang-sun.github.io/prisma-world/
-- **Paper:** https://huiqiang-sun.github.io/prisma-world/prisma-world.pdf
+- **Paper:** https://arxiv.org/abs/2606.09507
 
 
 ## Overview
@@ -28,10 +28,10 @@ Prisma-World is a camera-controllable multi-agent video world model for generati
 ## Citation
 
 ```bibtex
-@article{prismaworld2026,
+@article{sun2026prismaworld,
   title={Prisma-World: Camera-Controllable Multi-Agent Video World Model},
   author={Huiqiang Sun and Zhan Peng and Size Wu and Kun Wang and Kang Liao and Dianyi Wang and Xingyu Zeng and Sheng Jin and Yangguang Li and Zhiguo Cao and Ziwei Liu and Wei Li},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2606.09507},
   year={2026}
 }
 ```

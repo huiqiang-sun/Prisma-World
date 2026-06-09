@@ -15,4 +15,4 @@ Prisma-World studies multi-agent video world modeling, where multiple agents obs
 ## Resources
 
 - Project page: https://huiqiang-sun.github.io/prisma-world/
-- Paper: https://huiqiang-sun.github.io/prisma-world/prisma-world.pdf
+- Paper: https://arxiv.org/abs/2606.09507
